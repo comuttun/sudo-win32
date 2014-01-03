@@ -7,6 +7,7 @@ This is sudo for Windows, which in origin is a [superuser thread](http://superus
 ## Building
 
     git clone https://github.com/comutt/sudo-win32.git
+    cd sudo-win32
     nmake
 
 ## Usage
